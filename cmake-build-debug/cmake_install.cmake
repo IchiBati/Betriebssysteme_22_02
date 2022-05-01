@@ -1,4 +1,4 @@
-# Install script for directory: /home/sven/CLionProjects/Betriebssysteme_22_02
+# Install script for directory: /home/ichi/CLionProjects/Betriebssysteme_22_02
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sven/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ichi/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

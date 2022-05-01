@@ -1,3 +1,3 @@
-/home/sven/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/Betriebssysteme_22_02.dir
-/home/sven/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sven/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ichi/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/Betriebssysteme_22_02.dir
+/home/ichi/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ichi/CLionProjects/Betriebssysteme_22_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
